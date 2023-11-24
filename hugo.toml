@@ -1,0 +1,4 @@
+baseURL = 'https://npantelaios.github.io/dim'
+languageCode = 'en-us'
+title = 'Dimitris Personal Website'
+theme = 'academia-hugo'
