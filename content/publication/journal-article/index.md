@@ -22,7 +22,7 @@ publication_short: Under review - **ISBI 2024**
 abstract: The success of Transformers in the field of Natural Language Processing and Computer Vision inspired their use in various image analysis tasks. Vision Transformers capture longrange global dependencies through attention layers, but lack inductive biases, making it challenging for them to generalize when trained on small datasets. As a result, larger datasets are required for their training, which poses a significant obstacle specifically in the medical image classification task. This study focuses on the classification of chest X-ray images corresponding to different diseases affecting the lungs, such as COVID-19. To address the aforementioned challenges, hybrid models were devised, aiming to incorporate some advantages of CNNs into Vision Transformers, enabling the training of models on smaller datasets. So, in this work, we compare the hybrid models pre-trained on ImageNet1k with the traditional Vision Transformer pre-trained on ImageNet-21k using both a subset and the entire available COVID-QU-Ex dataset, while we also explore training the models from scratch. The results obtained demonstrate the superiority of the hybrid models in terms of accuracy, training time and the number of data required for training.
 
 # Summary. An optional shortened abstract.
-summary: Comparing hubrid CNN-VIT models for medical image classification.
+summary: Comparing hybrid CNN-VIT models for medical image classification.
 
 tags:
 - Source Themes
