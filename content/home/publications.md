@@ -11,6 +11,7 @@ title = "Recent Publications"
 subtitle = "Some publications I have recently published or are under review"
 
 [content]
+  link_authors = false
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   

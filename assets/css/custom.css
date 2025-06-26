@@ -1,0 +1,22 @@
+/* --- Contact widget: perfectly centre the lone e-mail block --- */
+#contact .row {                         /* the whole row            */
+  display: flex;                        /* override Bootstrap's row */
+  justify-content: center;              /* centre its children      */
+}
+
+#contact .row > div {                   /* the single column        */
+  flex: 0 0 auto;                       /* shrink to content width  */
+  max-width: max-content;               /* ignore the 33 % rule     */
+  text-align: center;                   /* centre icon+link inside  */
+}
+
+#contact .row > div a {                 /* the e-mail anchor        */
+  display: inline-flex;                 /* keep icon + text in line */
+  align-items: center;                  
+  gap: .4rem;                           /* small spacing            */
+}
+
+/* --- Contact widget: remove blank form row and its gap --- */
+#contact .contact-form             { display: none !important; }  /* row is empty, just hide it */
+#contact .contact-widget           { margin-top: 0 !important; }  /* kill the leftover mt-5 gap */
+
