@@ -77,7 +77,7 @@ user_groups:
 - Visitors
 ---
 
-I am Dimitris (Dimitrios) Pantelaios, a CIS PhD student at the University of Pennsylvania under the guidance of Christos Davatzikos. My research focuses on **modeling longitudinal trajectories** and **predicting the progression of Alzheimer’s disease** with deep-learning methods and especially **diffusion models**. By integrating both longitudinal and cross-sectional neuroimaging data, I am trying uncover subtle patterns of brain atrophy that enable earlier and more accurate diagnosis.
+I am Dimitris (Dimitrios) Pantelaios, a CIS PhD student at the University of Pennsylvania under the guidance of Christos Davatzikos. My research focuses on **modeling longitudinal trajectories** and **predicting the progression of Alzheimer’s disease** with deep-learning methods and especially **diffusion models**. By integrating both longitudinal and cross-sectional neuroimaging data, I am trying to uncover subtle patterns of brain atrophy that enable earlier and more accurate diagnosis.
 
 Before UPenn I earned my M.Eng. in Electrical & Computer Engineering at the National Technical University of Athens (NTUA) and completed my diploma thesis in Dr Kollias’ AILS lab. Broadly, I’m excited about anything at the intersection of medical imaging, generative AI, and computer vision.
 
